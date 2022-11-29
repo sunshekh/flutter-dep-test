@@ -1,0 +1,12 @@
+{
+    "name": "express-static-file-tutorial",
+    "version": "1.0.0",
+    "description": "",
+    "main": "flutter.js",
+    "scripts": {
+      "start": "node flutter.js"
+    },
+    "keywords": [],
+    "author": "Suny",
+    "license": "MIT"
+  }
